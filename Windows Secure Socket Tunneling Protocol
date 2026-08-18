@@ -1,0 +1,16 @@
+Use after free in Windows Secure Socket Tunneling Protocol (SSTP) allows an unauthorized attacker to execute code over a network.
+Windows Secure Socket Tunneling Protocol (SSTP) Remote Code Execution Vulnerability
+https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50694
+
+CVE-2026-50694
+Security Vulnerability
+Released: Jul 14, 2026
+
+Assigning CNA Microsoft
+CVE.org link CVE-2026-50694
+Impact Remote Code Execution
+Max Severity Critical 
+Weakness CWE-416: Use After Free 
+CVSS Source Microsoft 
+Vector String CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C
+Metrics CVSS:3.1 8.1 / 7.1
